@@ -28,7 +28,7 @@ echo -e "${RED}6) Установить X-UI${RESET}"
 echo -e "${RED}7) Установить Benchmark script${RESET}"
 echo -e "${RED}8) Установить SSH T PLUS${RESET}"
 echo ""
-read -p "$(echo -e "${RED}Выберите действие:${RESET}")" choice
+read -p "$(echo -e "${RED}Выберите действие: ${RESET}")" choice
 
 case $choice in
 	1)
