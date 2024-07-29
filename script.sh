@@ -55,4 +55,4 @@ case $choice in
 	8)
 		apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/TelksBr/SSH_T_PROJECT_PLUS/main/ssh-plus)
 		;;
-ecas
+esac
